@@ -1,3 +1,3 @@
 # matlab-practice
 
-This folder contains practice code utilizing MATLAB.
+Still learning how to use github, bare with me.
