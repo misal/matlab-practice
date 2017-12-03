@@ -1,3 +1,3 @@
 # matlab-practice
 
-#Readme edits
+This folder contains practice code utilizing MATLAB.
